@@ -1,3 +1,40 @@
+# 👋 Hey there! I'm Kunal Raj  
+
+🚀 Passionate about coding, development, and problem-solving!  
+🔭 Currently working on cool projects.  
+🌱 Always learning and exploring new technologies.  
+
+---
+
+## 📊 GitHub Stats
+
+![Kunal Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkunal024&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajkunal024&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkunal024&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajkunal024&theme=darkhub&no-frame=true&margin-w=15)
+
+---
+
+## 🌟 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajkunal024&theme=tokyo-night)
+
+---
 ###
 
 <div align="left">
