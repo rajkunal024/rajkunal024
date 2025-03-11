@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajkunal024&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkunal024&theme=tokyonight" height="150" alt="streak graph" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkunal024&theme=tokyonight" height="150" alt="streak graph" /> -->
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkunal024&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
