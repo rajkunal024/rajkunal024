@@ -1,7 +1,6 @@
 # 👋 Hey there! I'm Kunal Raj  
 
-🚀 Passionate about coding, development, and problem-solving!  
-🔭 Currently working on cool projects.  
+🚀 Passionate about coding, web development, and problem-solving!  
 🌱 Always learning and exploring new technologies.  
 
 ---
